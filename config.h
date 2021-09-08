@@ -6,7 +6,8 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font = "Terminus:pixelsize=14:antialias=true:autohint=true";
-static char *font2[] = { "Awesome:pixelsize=14:antialias=true:autohint=true"};
+//static char *font2[] = { "Hack Regular Nerd Font Complete Mono:pixelsize=14:antialias=true:autohint=true"};
+static char *font2[] = { "TerminessTTF Nerd Font:pixelsize=14:antialias=true:autohint=true"};
 static int borderpx = 2;
 
 /*
