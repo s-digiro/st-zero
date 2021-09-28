@@ -8,8 +8,8 @@
 static char *font = "Terminus:pixelsize=14:antialias=true:autohint=true";
 static char *font2[] = {
 	"TerminessTTF Nerd Font:pixelsize=14:antialias=true:autohint=true",
-	"Source Han Sans JP:antialias=true;autohint=true",
-	"Noto Sans:antialias=true;autohint=true"
+	"Source Han Sans JP:antialias=true:autohint=true",
+	"Noto Sans:antialias=true:autohint=true"
 };
 static int borderpx = 2;
 
